@@ -1,0 +1,15 @@
+{
+  "name": "infinite-monkey-theorem",
+  "version": "1.0.0",
+  "description": "*\"The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, including the complete works of William Shakespeare.\" -Wikipedia*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
